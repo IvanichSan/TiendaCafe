@@ -198,3 +198,8 @@ footer {
 ul, article, aside#izq, aside#der{
 	background-color: #fae7a896
 }
+
+.cafe-img {
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
